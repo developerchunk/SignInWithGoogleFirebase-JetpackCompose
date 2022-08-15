@@ -5,3 +5,6 @@ For all this we are going to use the power of Jetpack Compose.
 Please check out my youtube channel (Aditya Tech Developers) for more interesting content.
 
 Tutorial of the project is uploaded here: https://youtu.be/dPeS92y4gRs
+
+![](profile_screen.png)
+![](sign_in_screen.png)
